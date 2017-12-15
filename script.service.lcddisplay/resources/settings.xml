@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+    <category label="32020">
+        <setting label="32021" type="bool" id="myscrypt_enabled" default="false"/>
+        <setting label="32025" type="number" id="disp_width" default="200"/>
+        <setting label="32026" type="number" id="disp_height" default="64"/>
+        <setting label="32030" type="labelenum" id="displayFont" values="data-latin|helvetica"/>
+        <setting label="32027" type="number" id="fontsize" default="22"/>
+        <setting label="32028" type="time" id="maxHourOn" default="23:59"/>
+        <setting label="32029" type="time" id="minHourOn" default="5:50"/>
+    </category>
+</settings>
